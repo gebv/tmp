@@ -1,0 +1,11 @@
+dependencies:
+  libs:
+    f4/encoding: "v1"
+    f4/string: "v1"
+  services:
+    f4/storage: "v1"
+data:
+  local: ["*"]
+  marketplace:
+externally_connectable:
+  matchs: ["*"]
